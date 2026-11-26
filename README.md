@@ -1,4 +1,4 @@
-#Swami Vivekananda — Tribute Webpage # 
+Swami Vivekananda — Tribute Webpage \n 
 A clean, responsive static web tribute dedicated to the life, philosophy, 
 and teachings of **Swami Vivekananda**, built with HTML and deployed 
 on **Vercel**.
